@@ -189,25 +189,25 @@ These components are −
 
 Following are some of the most commonly used constraints available in SQL −
 
-### NOT NULL Constraint 
+### !) NOT NULL Constraint 
 − Ensures that a column cannot have a NULL value.
 
-### DEFAULT Constraint 
+### 2) DEFAULT Constraint 
 − Provides a default value for a column when none is specified.
 
-### UNIQUE Constraint 
+### 3) UNIQUE Constraint 
 − Ensures that all the values in a column are different.
 
-### PRIMARY Key 
+### 4) PRIMARY Key 
 − Uniquely identifies each row/record in a database table.
 
-### FOREIGN Key 
+### 5) FOREIGN Key 
 − Uniquely identifies a row/record in any another database table.
 
-### CHECK Constraint 
+### 6) CHECK Constraint 
 − The CHECK constraint ensures that all values in a column satisfy certain conditions.
 
-### INDEX  
+### 7) INDEX  
 − Used to create and retrieve data from the database very quickly.
 
 # Data Integrity 🚧
