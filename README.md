@@ -353,8 +353,9 @@ Following are some of the most commonly used constraints available in SQL −
 ### SQL DROP DATABASE Statement
     DROP DATABASE database_name;
     
-SQL USE Statement
-USE database_name;
+### SQL USE Statement
+    USE database_name;
+    
 SQL COMMIT Statement
 COMMIT;
 SQL ROLLBACK Statement
