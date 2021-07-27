@@ -271,10 +271,11 @@ Following are some of the most commonly used constraints available in SQL −
     SELECT column1, column2....columnN
     FROM   table_name
     WHERE  column_name BETWEEN val-1 AND val-2;
-SQL LIKE Clause
-SELECT column1, column2....columnN
-FROM   table_name
-WHERE  column_name LIKE { PATTERN };
+    
+### SQL LIKE Clause
+    SELECT column1, column2....columnN
+    FROM   table_name
+    WHERE  column_name LIKE { PATTERN };
 SQL ORDER BY Clause
 SELECT column1, column2....columnN
 FROM   table_name
