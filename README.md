@@ -110,3 +110,13 @@ These components are −
 - Takes back privileges granted from user.
 
 # TCL - Transaction Control Language 😀
+
+### COMMIT
+- Save all the transactions to the database.
+
+### ROLLBACK
+- Undo transactions that have not already been saved to the database.
+
+### SAVEPOINT
+- Roll the transaction back to a certain point without rolling back the entire transaction.
+
