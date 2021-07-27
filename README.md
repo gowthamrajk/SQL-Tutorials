@@ -282,11 +282,12 @@ Following are some of the most commonly used constraints available in SQL −
     FROM   table_name
     WHERE  CONDITION
     ORDER BY column_name {ASC|DESC};
-SQL GROUP BY Clause
-SELECT SUM(column_name)
-FROM   table_name
-WHERE  CONDITION
-GROUP BY column_name;
+    
+### SQL GROUP BY Clause
+    SELECT SUM(column_name)
+    FROM   table_name
+    WHERE  CONDITION
+    GROUP BY column_name;
 SQL COUNT Clause
 SELECT COUNT(column_name)
 FROM   table_name
