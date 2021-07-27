@@ -97,3 +97,6 @@ These components are −
 	
 ### DELETE
 - Deletes records.
+
+# DCL - Data Control Language 😀
+
