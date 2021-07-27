@@ -11,3 +11,12 @@ In this module, I will be updating the topic wise SQL tutorial notes which is ve
 - It covers most of the topics required for a basic understanding of SQL and to get a feel of how it works.
 
 # Why to Learn SQL 🤔
+
+- SQL is the standard language for Relational Database System. 
+- All the Relational Database Management Systems (RDMS) like MySQL, MS Access, Oracle, Sybase, Informix, Postgres and SQL Server use SQL as their standard database language.
+
+Also, they are using different dialects, such as −
+
+### 1) MS SQL Server using T-SQL,
+### 2) Oracle using PL/SQL,
+### 3) MS Access version of SQL is called JET SQL (native format) etc.
