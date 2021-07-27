@@ -100,3 +100,8 @@ These components are −
 
 # DCL - Data Control Language 😀
 
+### GRANT
+- Gives a privilege to user.
+
+### REVOKE
+- Takes back privileges granted from user.
