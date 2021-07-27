@@ -318,9 +318,10 @@ Following are some of the most commonly used constraints available in SQL −
     CREATE UNIQUE INDEX index_name
     ON table_name ( column1, column2,...columnN);
     
-SQL DROP INDEX Statement
-ALTER TABLE table_name
-DROP INDEX index_name;
+### SQL DROP INDEX Statement
+    ALTER TABLE table_name
+    DROP INDEX index_name;
+    
 SQL DESC Statement
 DESC table_name;
 SQL TRUNCATE TABLE Statement
