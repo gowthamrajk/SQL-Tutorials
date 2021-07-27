@@ -276,11 +276,12 @@ Following are some of the most commonly used constraints available in SQL −
     SELECT column1, column2....columnN
     FROM   table_name
     WHERE  column_name LIKE { PATTERN };
-SQL ORDER BY Clause
-SELECT column1, column2....columnN
-FROM   table_name
-WHERE  CONDITION
-ORDER BY column_name {ASC|DESC};
+    
+### SQL ORDER BY Clause
+    SELECT column1, column2....columnN
+    FROM   table_name
+    WHERE  CONDITION
+    ORDER BY column_name {ASC|DESC};
 SQL GROUP BY Clause
 SELECT SUM(column_name)
 FROM   table_name
