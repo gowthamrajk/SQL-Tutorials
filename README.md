@@ -197,3 +197,21 @@ Following are some of the most commonly used constraints available in SQL −
 **User-Defined Integrity − Enforces some specific business rules that do not fall into entity, domain or referential integrity.**
 
 # Database Normalization 🚀
+
+- Database normalization is the process of efficiently organizing data in a database. 
+- There are two reasons of this normalization process −
+
+**1) Eliminating redundant data, for example, storing the same data in more than one table.**
+
+**2) Ensuring data dependencies make sense.**
+
+- Both these reasons are worthy goals as they reduce the amount of space a database consumes and ensures that data is logically stored. 
+- Normalization consists of a series of guidelines that help guide you in creating a good database structure.
+- Normalization guidelines are divided into normal forms; think of a form as the format or the way a database structure is laid out. 
+- The aim of normal forms is to organize the database structure, so that it complies with the rules of first normal form, then second normal form and finally the third normal form.
+
+- It is your choice to take it further and go to the fourth normal form, fifth normal form and so on, but in general, the third normal form is more than enough.
+
+**First Normal Form (1NF)**
+**Second Normal Form (2NF)**
+**Third Normal Form (3NF)**
