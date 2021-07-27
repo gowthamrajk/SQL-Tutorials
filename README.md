@@ -195,3 +195,5 @@ Following are some of the most commonly used constraints available in SQL −
 **Referential integrity − Rows cannot be deleted, which are used by other records.**
 
 **User-Defined Integrity − Enforces some specific business rules that do not fall into entity, domain or referential integrity.**
+
+# Database Normalization 🚀
