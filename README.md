@@ -343,9 +343,10 @@ Following are some of the most commonly used constraints available in SQL −
     SET column1 = value1, column2 = value2....columnN=valueN
     [ WHERE  CONDITION ];
     
-SQL DELETE Statement
-DELETE FROM table_name
-WHERE  {CONDITION};
+### SQL DELETE Statement
+    DELETE FROM table_name
+    WHERE  {CONDITION};
+    
 SQL CREATE DATABASE Statement
 CREATE DATABASE database_name;
 SQL DROP DATABASE Statement
