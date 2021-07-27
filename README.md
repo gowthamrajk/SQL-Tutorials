@@ -127,5 +127,8 @@ These components are −
 - RDBMS stands for Relational Database Management System. 
 - RDBMS is the basis for SQL, and for all modern database systems like MS SQL Server, IBM DB2, Oracle, MySQL, and Microsoft Access.
 - A Relational database management system (RDBMS) is a database management system (DBMS) that is based on the relational model as introduced by E. F. Codd.
+
+## Tables 🎰
+
 - The data in an RDBMS is stored in database objects which are called as tables. 
 - This table is basically a collection of related data entries and it consists of numerous columns and rows.
