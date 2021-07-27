@@ -247,3 +247,7 @@ Following are some of the most commonly used constraints available in SQL −
 ### SQL SELECT Statement
     SELECT column1, column2....columnN
     FROM   table_name;
+ 
+### SQL DISTINCT Clause
+    SELECT DISTINCT column1, column2....columnN
+    FROM   table_name;
