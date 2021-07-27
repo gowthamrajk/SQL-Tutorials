@@ -154,3 +154,33 @@ These components are −
 - A field with a NULL value is the one that has been left blank during a record creation.
 
 # SQL Constraints 🚩
+
+- Constraints are the rules enforced on data columns on a table. 
+- These are used to limit the type of data that can go into a table. 
+- This ensures the accuracy and reliability of the data in the database.
+- Constraints can either be column level or table level. 
+- Column level constraints are applied only to one column whereas, table level constraints are applied to the entire table.
+
+Following are some of the most commonly used constraints available in SQL −
+
+### NOT NULL Constraint 
+− Ensures that a column cannot have a NULL value.
+
+### DEFAULT Constraint 
+− Provides a default value for a column when none is specified.
+
+### UNIQUE Constraint 
+− Ensures that all the values in a column are different.
+
+### PRIMARY Key 
+− Uniquely identifies each row/record in a database table.
+
+### FOREIGN Key 
+− Uniquely identifies a row/record in any another database table.
+
+### CHECK Constraint 
+− The CHECK constraint ensures that all values in a column satisfy certain conditions.
+
+### INDEX  
+− Used to create and retrieve data from the database very quickly.
+
