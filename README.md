@@ -74,3 +74,12 @@ These components are −
 - These commands can be classified into the following groups based on their nature −
 
 ## DDL - Data Definition Language 😀
+
+### CREATE
+- Creates a new table, a view of a table, or other object in the database.
+	
+### ALTER
+- Modifies an existing database object, such as a table.
+
+### DROP
+- Deletes an entire table, a view of a table or other objects in the database.
