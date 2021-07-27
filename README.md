@@ -12,6 +12,14 @@ In this module, I will be updating the topic wise SQL tutorial notes which is ve
 
 # A Brief History of SQL ⌚
 
+**1970** − Dr. Edgar F. "Ted" Codd of IBM is known as the father of relational databases. He described a relational model for databases.
+
+**1974** − Structured Query Language appeared.
+
+**1978** − IBM worked to develop Codd's ideas and released a product named System/R.
+
+**1986** − IBM developed the first prototype of relational database and standardized by ANSI. The first relational database was released by Relational Software which later came to be known as Oracle.
+
 # Why to Learn SQL 🤔
 
 - SQL is the standard language for Relational Database System. 
