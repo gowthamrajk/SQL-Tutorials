@@ -301,15 +301,16 @@ Following are some of the most commonly used constraints available in SQL −
     GROUP BY column_name
     HAVING (arithematic function condition);
     
-SQL CREATE TABLE Statement
-CREATE TABLE table_name(
-column1 datatype,
-column2 datatype,
-column3 datatype,
-.....
-columnN datatype,
-PRIMARY KEY( one or more columns )
-);
+### SQL CREATE TABLE Statement
+    CREATE TABLE table_name(
+        column1 datatype,
+        column2 datatype,
+        column3 datatype,
+        .....
+        columnN datatype,
+        PRIMARY KEY( one or more columns )
+    );
+    
 SQL DROP TABLE Statement
 DROP TABLE table_name;
 SQL CREATE INDEX Statement
