@@ -153,4 +153,4 @@ These components are −
 - It is very important to understand that a NULL value is different than a zero value or a field that contains spaces. 
 - A field with a NULL value is the one that has been left blank during a record creation.
 
-
+# SQL Constraints 🚩
