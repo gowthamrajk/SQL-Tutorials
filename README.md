@@ -20,3 +20,5 @@ Also, they are using different dialects, such as −
 ### 1) MS SQL Server using T-SQL,
 ### 2) Oracle using PL/SQL,
 ### 3) MS Access version of SQL is called JET SQL (native format) etc.
+
+# Applications of SQL ✔️
