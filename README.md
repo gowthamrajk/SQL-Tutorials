@@ -328,8 +328,9 @@ Following are some of the most commonly used constraints available in SQL −
 ### SQL TRUNCATE TABLE Statement
     TRUNCATE TABLE table_name;
     
-SQL ALTER TABLE Statement
-ALTER TABLE table_name {ADD|DROP|MODIFY} column_name {data_ype};
+### SQL ALTER TABLE Statement
+    ALTER TABLE table_name {ADD|DROP|MODIFY} column_name {data_ype};
+    
 SQL ALTER TABLE Statement (Rename)
 ALTER TABLE table_name RENAME TO new_table_name;
 SQL INSERT INTO Statement
