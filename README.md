@@ -142,3 +142,7 @@ These components are −
 ## Record 🎲
 
 - A record is also called as a row of data is each individual entry that exists in a table.
+
+## Column 🏹
+
+- A column is a vertical entity in a table that contains all information associated with a specific field in a table.
