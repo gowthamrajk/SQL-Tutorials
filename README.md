@@ -256,10 +256,11 @@ Following are some of the most commonly used constraints available in SQL −
     SELECT column1, column2....columnN
     FROM   table_name
     WHERE  CONDITION;
-SQL AND/OR Clause
-SELECT column1, column2....columnN
-FROM   table_name
-WHERE  CONDITION-1 {AND|OR} CONDITION-2;
+    
+### SQL AND/OR Clause
+    SELECT column1, column2....columnN
+    FROM   table_name
+    WHERE  CONDITION-1 {AND|OR} CONDITION-2;
 SQL IN Clause
 SELECT column1, column2....columnN
 FROM   table_name
