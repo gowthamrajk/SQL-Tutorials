@@ -49,3 +49,5 @@ Also, they are using different dialects, such as −
 ### - Allows users to create view, stored procedure, functions in a database.
 
 ### - Allows users to set permissions on tables, procedures and views.
+
+# SQL Process ⌛
