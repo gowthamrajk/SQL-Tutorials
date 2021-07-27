@@ -56,14 +56,14 @@ Also, they are using different dialects, such as −
 - There are various components included in this process.
 These components are −
 
-**Query Dispatcher**
+**1) Query Dispatcher**
 
-**Optimization Engines**
+**2) Optimization Engines**
 
-**Classic Query Engine**
+**3) Classic Query Engine**
 
-**SQL Query Engine, etc.**
+**4) SQL Query Engine, etc.**
 
-**A classic query engine handles all the non-SQL queries, but a SQL query engine won't handle logical files.**
+**5) A classic query engine handles all the non-SQL queries, but a SQL query engine won't handle logical files.**
 
 
