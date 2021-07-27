@@ -363,3 +363,9 @@ Following are some of the most commonly used constraints available in SQL −
     ROLLBACK;
 
 # SQL - Data Types 🧐
+
+- SQL Data Type is an attribute that specifies the type of data of any object. 
+- Each column, variable and expression has a related data type in SQL. 
+- You can use these data types while creating your tables. 
+- You can choose a data type for a table column based on your requirement.
+- SQL Server offers six categories of data types for your use which are listed below −
