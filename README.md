@@ -184,3 +184,4 @@ Following are some of the most commonly used constraints available in SQL −
 ### INDEX  
 − Used to create and retrieve data from the database very quickly.
 
+# Data Integrity 🚧
