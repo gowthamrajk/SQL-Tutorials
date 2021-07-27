@@ -108,3 +108,5 @@ These components are −
 
 ### REVOKE
 - Takes back privileges granted from user.
+
+# TCL - Transaction Control Language 😀
