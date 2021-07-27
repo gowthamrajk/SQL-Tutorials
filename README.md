@@ -85,3 +85,15 @@ These components are −
 - Deletes an entire table, a view of a table or other objects in the database.
 
 ## DML - Data Manipulation Language 😀
+
+### SELECT
+- Retrieves certain records from one or more tables.
+
+### INSERT
+- Creates a record.
+
+### UPDATE
+= Modifies records.
+	
+### DELETE
+- Deletes records.
