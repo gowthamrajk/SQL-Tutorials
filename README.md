@@ -311,8 +311,9 @@ Following are some of the most commonly used constraints available in SQL −
         PRIMARY KEY( one or more columns )
     );
     
-SQL DROP TABLE Statement
-DROP TABLE table_name;
+### SQL DROP TABLE Statement
+    DROP TABLE table_name;
+
 SQL CREATE INDEX Statement
 CREATE UNIQUE INDEX index_name
 ON table_name ( column1, column2,...columnN);
