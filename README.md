@@ -359,5 +359,5 @@ Following are some of the most commonly used constraints available in SQL −
 ### SQL COMMIT Statement
     COMMIT;
     
-SQL ROLLBACK Statement
-ROLLBACK;
+### SQL ROLLBACK Statement
+    ROLLBACK;
