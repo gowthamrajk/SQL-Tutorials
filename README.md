@@ -121,3 +121,5 @@ These components are −
 
 ### SELECT
 - select the attribute based on the condition described by WHERE clause.
+
+# RDBMS ⌛
