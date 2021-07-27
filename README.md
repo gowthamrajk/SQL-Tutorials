@@ -89,9 +89,6 @@ These components are −
 
 ## DML - Data Manipulation Language 😀
 
-### SELECT
-- Retrieves certain records from one or more tables.
-
 ### INSERT
 - Creates a record.
 
@@ -120,3 +117,7 @@ These components are −
 ### SAVEPOINT
 - Roll the transaction back to a certain point without rolling back the entire transaction.
 
+## Data Query Language 😀
+
+### SELECT
+- select the attribute based on the condition described by WHERE clause.
