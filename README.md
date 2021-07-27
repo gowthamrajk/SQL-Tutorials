@@ -83,3 +83,5 @@ These components are −
 
 ### DROP
 - Deletes an entire table, a view of a table or other objects in the database.
+
+## DML - Data Manipulation Language 😀
