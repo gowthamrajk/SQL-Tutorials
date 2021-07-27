@@ -294,12 +294,13 @@ Following are some of the most commonly used constraints available in SQL −
     FROM   table_name
     WHERE  CONDITION;
     
-SQL HAVING Clause
-SELECT SUM(column_name)
-FROM   table_name
-WHERE  CONDITION
-GROUP BY column_name
-HAVING (arithematic function condition);
+### SQL HAVING Clause
+    SELECT SUM(column_name)
+    FROM   table_name
+    WHERE  CONDITION
+    GROUP BY column_name
+    HAVING (arithematic function condition);
+    
 SQL CREATE TABLE Statement
 CREATE TABLE table_name(
 column1 datatype,
