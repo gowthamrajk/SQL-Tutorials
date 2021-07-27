@@ -347,8 +347,9 @@ Following are some of the most commonly used constraints available in SQL −
     DELETE FROM table_name
     WHERE  {CONDITION};
     
-SQL CREATE DATABASE Statement
-CREATE DATABASE database_name;
+### SQL CREATE DATABASE Statement
+    CREATE DATABASE database_name;
+    
 SQL DROP DATABASE Statement
 DROP DATABASE database_name;
 SQL USE Statement
