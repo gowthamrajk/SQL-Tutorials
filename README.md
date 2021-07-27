@@ -33,18 +33,18 @@ Also, they are using different dialects, such as −
 
 # Features of MYSQL 🚀
 
-**1) High Performance
-**2) High Availability
-**3) Database mirroring
-**4) Database snapshots
-**5) CLR integration
-**6) Service Broker
-**7) DDL triggers
-**8) Ranking functions
-**9) Row version-based isolation levels
-**10) XML integration
-**11) TRY...CATCH
-**12) Database Mail
+**1) High Performance**
+**2) High Availability**
+**3) Database mirroring**
+**4) Database snapshots**
+**5) CLR integration**
+**6) Service Broker**
+**7) DDL triggers**
+**8) Ranking functions**
+**9) Row version-based isolation levels**
+**10) XML integration**
+**11) TRY...CATCH**
+**12) Database Mail**
 
 # Applications of SQL ✔️
 
