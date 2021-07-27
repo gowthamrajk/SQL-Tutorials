@@ -133,7 +133,7 @@ These components are −
 - The data in an RDBMS is stored in database objects which are called as tables. 
 - This table is basically a collection of related data entries and it consists of numerous columns and rows.
 
-## Record 
+## Field 🎯 
 
 - Every table is broken up into smaller entities called fields. 
 - The fields in the CUSTOMERS table consist of ID, NAME, AGE, ADDRESS and SALARY.
