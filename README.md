@@ -361,3 +361,5 @@ Following are some of the most commonly used constraints available in SQL −
     
 ### SQL ROLLBACK Statement
     ROLLBACK;
+
+# SQL - Data Types 🧐
