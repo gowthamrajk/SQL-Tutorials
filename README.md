@@ -185,3 +185,13 @@ Following are some of the most commonly used constraints available in SQL −
 − Used to create and retrieve data from the database very quickly.
 
 # Data Integrity 🚧
+
+- The following categories of data integrity exist with each RDBMS −
+
+**Entity Integrity − There are no duplicate rows in a table.**
+
+**Domain Integrity − Enforces valid entries for a given column by restricting the type, the format, or the range of values.**
+
+**Referential integrity − Rows cannot be deleted, which are used by other records.**
+
+**User-Defined Integrity − Enforces some specific business rules that do not fall into entity, domain or referential integrity.**
