@@ -10,6 +10,8 @@ In this module, I will be updating the topic wise SQL tutorial notes which is ve
 - This tutorial will give you a quick start to SQL. 
 - It covers most of the topics required for a basic understanding of SQL and to get a feel of how it works.
 
+# A Brief History of SQL ⌚
+
 # Why to Learn SQL 🤔
 
 - SQL is the standard language for Relational Database System. 
