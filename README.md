@@ -31,7 +31,7 @@ Also, they are using different dialects, such as −
 ### 2) Oracle using PL/SQL,
 ### 3) MS Access version of SQL is called JET SQL (native format) etc.
 
-# Features of MYSQL 
+# Features of MYSQL 🚀
 
 High Performance
 High Availability
