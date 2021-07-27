@@ -31,6 +31,21 @@ Also, they are using different dialects, such as −
 ### 2) Oracle using PL/SQL,
 ### 3) MS Access version of SQL is called JET SQL (native format) etc.
 
+# Features of MYSQL 
+
+High Performance
+High Availability
+Database mirroring
+Database snapshots
+CLR integration
+Service Broker
+DDL triggers
+Ranking functions
+Row version-based isolation levels
+XML integration
+TRY...CATCH
+Database Mail
+
 # Applications of SQL ✔️
 
 - SQL is one of the most widely used query language over the databases.
