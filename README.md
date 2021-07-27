@@ -73,6 +73,9 @@ These components are −
 - The standard SQL commands to interact with relational databases are CREATE, SELECT, INSERT, UPDATE, DELETE and DROP. 
 - These commands can be classified into the following groups based on their nature −
 
+![image](https://user-images.githubusercontent.com/43011442/127164103-88c322ea-a2c0-4c6e-a0ad-40a8426ee826.png)
+
+
 ## DDL - Data Definition Language 😀
 
 ### CREATE
