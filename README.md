@@ -370,8 +370,8 @@ Following are some of the most commonly used constraints available in SQL −
 - You can choose a data type for a table column based on your requirement.
 - SQL Server offers six categories of data types for your use which are listed below −
 
-### Exact Numeric Data Types  
+## 1) Exact Numeric Data Types  
 
 ![image](https://user-images.githubusercontent.com/43011442/127181387-5c8a3c74-b852-4de7-a3f9-12903a6be7c9.png)
 
-### Approximate Numeric Data Types
+## 2) Approximate Numeric Data Types
