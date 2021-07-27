@@ -146,3 +146,11 @@ These components are −
 ## Column 🏹
 
 - A column is a vertical entity in a table that contains all information associated with a specific field in a table.
+
+## NULL value 🚫
+
+- A NULL value in a table is a value in a field that appears to be blank, which means a field with a NULL value is a field with no value.
+- It is very important to understand that a NULL value is different than a zero value or a field that contains spaces. 
+- A field with a NULL value is the one that has been left blank during a record creation.
+
+
