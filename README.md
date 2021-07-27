@@ -68,3 +68,5 @@ These components are −
 
 ![image](https://user-images.githubusercontent.com/43011442/127163328-b05a4947-7865-4839-bbe0-18259b48b42e.png)
 
+# SQL Commands 📌
+
