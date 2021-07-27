@@ -322,8 +322,9 @@ Following are some of the most commonly used constraints available in SQL −
     ALTER TABLE table_name
     DROP INDEX index_name;
     
-SQL DESC Statement
-DESC table_name;
+### SQL DESC Statement
+    DESC table_name;
+    
 SQL TRUNCATE TABLE Statement
 TRUNCATE TABLE table_name;
 SQL ALTER TABLE Statement
