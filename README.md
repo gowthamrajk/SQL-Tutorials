@@ -391,3 +391,5 @@ Following are some of the most commonly used constraints available in SQL −
 ![image](https://user-images.githubusercontent.com/43011442/127271467-af1a7b9e-62de-46fc-b663-92a5bec9a99f.png)
 
 ## 6) Binary Data Types
+
+![image](https://user-images.githubusercontent.com/43011442/127271585-8e85543c-fe54-49a8-8228-08851d61dea2.png)
