@@ -501,5 +501,6 @@ Following are some of the most commonly used constraints available in SQL −
 ## Date Expressions
 
     SELECT CURRENT_TIMESTAMP;
-  
+
+    SELECT  GETDATE();
     
