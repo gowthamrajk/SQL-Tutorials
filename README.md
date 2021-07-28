@@ -397,3 +397,5 @@ Following are some of the most commonly used constraints available in SQL −
 ## 7) Misc Data Types
 
 ![image](https://user-images.githubusercontent.com/43011442/127271918-8bf12f0f-d137-4373-bb2a-2c46436c06c7.png)
+
+# Operator in SQL ⚡
