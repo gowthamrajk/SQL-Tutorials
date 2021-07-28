@@ -448,10 +448,8 @@ Following are some of the most commonly used constraints available in SQL −
 ## SQL Logical Operators ❗
 
 ### ALL
-- The ALL operator is used to compare a value to all values in another value set.
-
-2	
-AND
+- The ALL operator is used to compare a value to all values in another value set.	
+### AND
 
 The AND operator allows the existence of multiple conditions in an SQL statement's WHERE clause.
 
