@@ -377,3 +377,6 @@ Following are some of the most commonly used constraints available in SQL −
 ## 2) Approximate Numeric Data Types
 
 ![image](https://user-images.githubusercontent.com/43011442/127271215-c79c162d-b983-4e70-902b-a43929e805a6.png)
+
+## 3) Date and Time Data Types
+
