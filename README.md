@@ -456,8 +456,7 @@ Following are some of the most commonly used constraints available in SQL −
 ### BETWEEN
 - The BETWEEN operator is used to search for values that are within a set of values, given the minimum value and the maximum value.
 ### EXISTS
-
-The EXISTS operator is used to search for the presence of a row in a specified table that meets a certain criterion.
+- The EXISTS operator is used to search for the presence of a row in a specified table that meets a certain criterion.
 
 6	
 IN
