@@ -423,3 +423,5 @@ Following are some of the most commonly used constraints available in SQL −
 - Divides left hand operand by right hand operand.
 ### % (Modulus)
 - Divides left hand operand by right hand operand and returns remainder.
+
+## SQL Comparison Operators ⭐
