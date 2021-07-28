@@ -453,9 +453,7 @@ Following are some of the most commonly used constraints available in SQL −
 - The AND operator allows the existence of multiple conditions in an SQL statement's WHERE clause.
 ### ANY
 - The ANY operator is used to compare a value to any applicable value in the list as per the condition.
-
-4	
-BETWEEN
+### BETWEEN
 
 The BETWEEN operator is used to search for values that are within a set of values, given the minimum value and the maximum value.
 
