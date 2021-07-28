@@ -380,3 +380,4 @@ Following are some of the most commonly used constraints available in SQL −
 
 ## 3) Date and Time Data Types
 
+![image](https://user-images.githubusercontent.com/43011442/127271285-779bde09-bd62-4d0f-8045-4665634b6fea.png)
