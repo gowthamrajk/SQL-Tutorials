@@ -499,3 +499,7 @@ Following are some of the most commonly used constraints available in SQL −
     WHERE CONDITION] ;
     
 ## Date Expressions
+
+    SELECT CURRENT_TIMESTAMP;
+  
+    
