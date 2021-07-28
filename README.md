@@ -498,4 +498,4 @@ Following are some of the most commonly used constraints available in SQL −
     [FROM table_name
     WHERE CONDITION] ;
     
-
+## Date Expressions
