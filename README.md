@@ -471,3 +471,10 @@ Following are some of the most commonly used constraints available in SQL −
 - The UNIQUE operator searches every row of a specified table for uniqueness (no duplicates).
 
 # SQL - Expressions ✍
+
+- SQL EXPRESSIONs are like formulae and they are written in query language. You can also use them to query the database for a specific set of data.
+
+      SELECT column1, column2, columnN 
+      FROM table_name 
+      WHERE [CONDITION|EXPRESSION];
+      
