@@ -494,4 +494,8 @@ Following are some of the most commonly used constraints available in SQL −
     
 ## Numeric Expression
 
+    SELECT numerical_expression as  OPERATION_NAME
+    [FROM table_name
+    WHERE CONDITION] ;
     
+
