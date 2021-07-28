@@ -412,3 +412,10 @@ Following are some of the most commonly used constraints available in SQL −
 ### Operators used to negate conditions
 
 ## SQL Arithmetic Operators ✨
+
+### + (Addition)
+- Adds values on either side of the operator.
+- (Subtraction)	Subtracts right hand operand from left hand operand.
+* (Multiplication)	Multiplies values on either side of the operator.
+/ (Division)	Divides left hand operand by right hand operand.
+% (Modulus)	Divides left hand operand by right hand operand and returns remainder.
