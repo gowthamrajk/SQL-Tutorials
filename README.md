@@ -399,3 +399,14 @@ Following are some of the most commonly used constraints available in SQL −
 ![image](https://user-images.githubusercontent.com/43011442/127271918-8bf12f0f-d137-4373-bb2a-2c46436c06c7.png)
 
 # Operator in SQL ⚡
+
+- An operator is a reserved word or a character used primarily in an SQL statement's WHERE clause to perform operation(s), such as comparisons and arithmetic operations.
+- These Operators are used to specify conditions in an SQL statement and to serve as conjunctions for multiple conditions in a statement.
+
+### Arithmetic operators
+
+### Comparison operators
+
+### Logical operators
+
+### Operators used to negate conditions
