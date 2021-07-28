@@ -488,3 +488,7 @@ Following are some of the most commonly used constraints available in SQL −
 
 ## Boolean Expressions
 
+    SELECT column1, column2, columnN 
+    FROM table_name 
+    WHERE SINGLE VALUE MATCHING EXPRESSION;
+    
