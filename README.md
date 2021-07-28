@@ -455,9 +455,7 @@ Following are some of the most commonly used constraints available in SQL −
 - The ANY operator is used to compare a value to any applicable value in the list as per the condition.
 ### BETWEEN
 - The BETWEEN operator is used to search for values that are within a set of values, given the minimum value and the maximum value.
-
-5	
-EXISTS
+### EXISTS
 
 The EXISTS operator is used to search for the presence of a row in a specified table that meets a certain criterion.
 
