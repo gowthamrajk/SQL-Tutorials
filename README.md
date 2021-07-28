@@ -467,8 +467,6 @@ Following are some of the most commonly used constraints available in SQL −
 - The OR operator is used to combine multiple conditions in an SQL statement's WHERE clause.
 ### IS NULL
 - The NULL operator is used to compare a value with a NULL value.
-
-11	
-UNIQUE
+### UNIQUE
 
 The UNIQUE operator searches every row of a specified table for uniqueness (no duplicates).
