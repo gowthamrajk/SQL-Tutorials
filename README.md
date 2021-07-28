@@ -410,3 +410,5 @@ Following are some of the most commonly used constraints available in SQL −
 ### Logical operators
 
 ### Operators used to negate conditions
+
+## SQL Arithmetic Operators ✨
