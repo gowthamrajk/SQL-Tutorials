@@ -462,8 +462,7 @@ Following are some of the most commonly used constraints available in SQL −
 ### LIKE
 - The LIKE operator is used to compare a value to similar values using wildcard operators.
 ### NOT
-
-The NOT operator reverses the meaning of the logical operator with which it is used. Eg: NOT EXISTS, NOT BETWEEN, NOT IN, etc. This is a negate operator.
+- The NOT operator reverses the meaning of the logical operator with which it is used. Eg: NOT EXISTS, NOT BETWEEN, NOT IN, etc. This is a negate operator.
 
 9	
 OR
