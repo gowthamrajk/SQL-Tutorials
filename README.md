@@ -468,5 +468,4 @@ Following are some of the most commonly used constraints available in SQL −
 ### IS NULL
 - The NULL operator is used to compare a value with a NULL value.
 ### UNIQUE
-
-The UNIQUE operator searches every row of a specified table for uniqueness (no duplicates).
+- The UNIQUE operator searches every row of a specified table for uniqueness (no duplicates).
