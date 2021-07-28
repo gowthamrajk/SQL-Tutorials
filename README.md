@@ -464,8 +464,7 @@ Following are some of the most commonly used constraints available in SQL −
 ### NOT
 - The NOT operator reverses the meaning of the logical operator with which it is used. Eg: NOT EXISTS, NOT BETWEEN, NOT IN, etc. This is a negate operator.
 ### OR
-
-The OR operator is used to combine multiple conditions in an SQL statement's WHERE clause.
+- The OR operator is used to combine multiple conditions in an SQL statement's WHERE clause.
 
 10	
 IS NULL
