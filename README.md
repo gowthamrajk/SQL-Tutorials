@@ -431,7 +431,7 @@ Following are some of the most commonly used constraints available in SQL −
 ### <>	Checks if the values of two operands are equal or not, if values are not equal then condition becomes true.
 ### >	Checks if the value of left operand is greater than the value of right operand, if yes then condition becomes true.
 ### <	Checks if the value of left operand is less than the value of right operand, if yes then condition becomes true.
->=	Checks if the value of left operand is greater than or equal to the value of right operand, if yes then condition becomes true.
+### >=	Checks if the value of left operand is greater than or equal to the value of right operand, if yes then condition becomes true.
 <=	Checks if the value of left operand is less than or equal to the value of right operand, if yes then condition becomes true.
 !<	Checks if the value of left operand is not less than the value of right operand, if yes then condition becomes true.
 !>	Checks if the value of left operand is not greater than the value of right operand, if yes then condition becomes true.
