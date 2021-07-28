@@ -451,9 +451,7 @@ Following are some of the most commonly used constraints available in SQL −
 - The ALL operator is used to compare a value to all values in another value set.	
 ### AND
 - The AND operator allows the existence of multiple conditions in an SQL statement's WHERE clause.
-
-3	
-ANY
+### ANY
 
 The ANY operator is used to compare a value to any applicable value in the list as per the condition.
 
