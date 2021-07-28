@@ -478,3 +478,11 @@ Following are some of the most commonly used constraints available in SQL −
       FROM table_name 
       WHERE [CONDITION|EXPRESSION];
       
+- There are different types of SQL expressions, which are mentioned below −
+
+**1) Boolean**
+
+**2) Numeric**
+
+**3) Date**
+
