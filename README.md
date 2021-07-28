@@ -486,3 +486,5 @@ Following are some of the most commonly used constraints available in SQL −
 
 **3) Date**
 
+## Boolean Expressions
+
