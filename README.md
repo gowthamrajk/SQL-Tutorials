@@ -386,3 +386,5 @@ Following are some of the most commonly used constraints available in SQL −
 
 ![image](https://user-images.githubusercontent.com/43011442/127271381-adca0c51-0e4e-4314-b4b5-00474858f841.png)
 
+## 5) Unicode Character Strings Data Types
+
