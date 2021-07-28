@@ -459,9 +459,7 @@ Following are some of the most commonly used constraints available in SQL −
 - The EXISTS operator is used to search for the presence of a row in a specified table that meets a certain criterion.
 ### IN
 - The IN operator is used to compare a value to a list of literal values that have been specified.
-
-7	
-LIKE
+### LIKE
 
 The LIKE operator is used to compare a value to similar values using wildcard operators.
 
