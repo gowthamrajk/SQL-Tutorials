@@ -626,4 +626,4 @@ There are different types of joins available in SQL −
     FROM table1 [, table2 ]
     [WHERE condition]
 
-## 
+## INTERSECT
