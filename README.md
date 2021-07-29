@@ -524,4 +524,4 @@ There are different types of joins available in SQL −
 
 ### SELF JOIN − is used to join a table to itself as if the table were two tables, temporarily renaming at least one table in the SQL statement.
 
-CARTESIAN JOIN − returns the Cartesian product of the sets of records from the two or more joined tables.
+### CARTESIAN JOIN − returns the Cartesian product of the sets of records from the two or more joined tables.
