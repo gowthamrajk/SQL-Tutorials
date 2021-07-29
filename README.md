@@ -506,3 +506,5 @@ Following are some of the most commonly used constraints available in SQL −
     
 # SQL - Using Joins ⭕
 
+- The SQL Joins clause is used to combine records from two or more tables in a database. 
+- A JOIN is a means for combining fields from two tables by using values common to each.
