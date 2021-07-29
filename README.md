@@ -727,3 +727,7 @@ The following guidelines indicate when the use of an index should be reconsidere
 ### New Column
  
     ALTER TABLE table_name ADD column_name datatype;
+
+### DROP COLUMN
+
+    
