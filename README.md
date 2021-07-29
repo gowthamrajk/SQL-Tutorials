@@ -732,4 +732,6 @@ The following guidelines indicate when the use of an index should be reconsidere
 
     ALTER TABLE table_name DROP COLUMN column_name;
     
+### Change DATA TYPE
 
+    
