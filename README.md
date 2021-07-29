@@ -678,6 +678,16 @@ There are different types of joins available in SQL −
 - Simply put, an index is a pointer to data in a table. 
 - An index in a database is very similar to an index in the back of a book.
 
+The following guidelines indicate when the use of an index should be reconsidered.
+
+**- Indexes should not be used on small tables.
+
+Tables that have frequent, large batch updates or insert operations.
+
+Indexes should not be used on columns that contain a high number of NULL values.
+
+Columns that are frequently manipulated should not be indexed.
+
 ### CREATE INDEX
 
     CREATE INDEX index_name ON table_name;
