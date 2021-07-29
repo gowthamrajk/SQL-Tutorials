@@ -707,4 +707,4 @@ There are different types of joins available in SQL −
 
 ### DROP INDEX
 
-
+    DROP INDEX index_name;
