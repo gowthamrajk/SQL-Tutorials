@@ -520,7 +520,7 @@ There are different types of joins available in SQL −
 
 ### RIGHT JOIN − returns all rows from the right table, even if there are no matches in the left table.
 
-FULL JOIN − returns rows when there is a match in one of the tables.
+### FULL JOIN − returns rows when there is a match in one of the tables.
 
 SELF JOIN − is used to join a table to itself as if the table were two tables, temporarily renaming at least one table in the SQL statement.
 
