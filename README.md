@@ -608,3 +608,11 @@ There are different types of joins available in SQL −
 
 ## UNION
 
+    SELECT column1 [, column2 ]
+    FROM table1 [, table2 ]
+    [WHERE condition]
+    UNION
+    SELECT column1 [, column2 ]
+    FROM table1 [, table2 ]
+    [WHERE condition]
+    
