@@ -742,4 +742,7 @@ The following guidelines indicate when the use of an index should be reconsidere
     
 ### ADD UNIQUE CONSTRAINT
 
+    ALTER TABLE table_name 
+    ADD CONSTRAINT MyUniqueConstraint UNIQUE(column1, column2...);
     
+
