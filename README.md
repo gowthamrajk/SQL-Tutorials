@@ -684,3 +684,8 @@ There are different types of joins available in SQL −
 
 ### Single-Column Indexes
 - A single-column index is created based on only one table column.
+
+      CREATE INDEX index_name
+      ON table_name (column_name);
+      
+### 
