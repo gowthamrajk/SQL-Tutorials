@@ -738,4 +738,6 @@ The following guidelines indicate when the use of an index should be reconsidere
 
 ### NOT NULL
 
+    ALTER TABLE table_name MODIFY column_name datatype NOT NULL;
     
+
