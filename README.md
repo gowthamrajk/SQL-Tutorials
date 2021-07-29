@@ -680,7 +680,7 @@ There are different types of joins available in SQL −
 
 The following guidelines indicate when the use of an index should be reconsidered.
 
-**- Indexes should not be used on small tables.
+**- Indexes should not be used on small tables.**
 
 **- Tables that have frequent, large batch updates or insert operations.
 
