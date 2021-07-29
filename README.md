@@ -522,6 +522,6 @@ There are different types of joins available in SQL −
 
 ### FULL JOIN − returns rows when there is a match in one of the tables.
 
-SELF JOIN − is used to join a table to itself as if the table were two tables, temporarily renaming at least one table in the SQL statement.
+### SELF JOIN − is used to join a table to itself as if the table were two tables, temporarily renaming at least one table in the SQL statement.
 
 CARTESIAN JOIN − returns the Cartesian product of the sets of records from the two or more joined tables.
