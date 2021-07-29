@@ -724,3 +724,6 @@ The following guidelines indicate when the use of an index should be reconsidere
 - The SQL ALTER TABLE command is used to add, delete or modify columns in an existing table. 
 - You should also use the ALTER TABLE command to add and drop various constraints on an existing table.
 
+### New Column
+ 
+    
