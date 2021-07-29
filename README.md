@@ -701,4 +701,8 @@ There are different types of joins available in SQL −
       CREATE INDEX index_name
       on table_name (column1, column2);
       
+### Implicit Indexes
+- Implicit indexes are indexes that are automatically created by the database server when an object is created. 
+- Indexes are automatically created for primary key constraints and unique constraints.
 
+### 
