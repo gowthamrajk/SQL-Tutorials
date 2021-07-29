@@ -508,3 +508,6 @@ Following are some of the most commonly used constraints available in SQL −
 
 - The SQL Joins clause is used to combine records from two or more tables in a database. 
 - A JOIN is a means for combining fields from two tables by using values common to each.
+- It is noticeable that the join is performed in the WHERE clause. 
+- Several operators can be used to join tables, such as =, <, >, <>, <=, >=, !=, BETWEEN, LIKE, and NOT; they can all be used to join tables. 
+- However, the most common operator is the equal to symbol.
