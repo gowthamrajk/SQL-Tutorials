@@ -664,3 +664,7 @@ There are different types of joins available in SQL −
 
 # SQL - Alias ✍
 
+- The use of table aliases is to rename a table in a specific SQL statement. 
+- The renaming is a temporary change and the actual table name does not change in the database. 
+- The column aliases are used to rename a table's columns for the purpose of a particular SQL query.
+
