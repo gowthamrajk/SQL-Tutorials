@@ -540,4 +540,6 @@ There are different types of joins available in SQL −
     table2: Second table
     matching_column: Column common to both the tables.
     
-    
+## 2) LEFT JOIN
+
+
