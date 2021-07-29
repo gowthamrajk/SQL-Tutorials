@@ -771,7 +771,7 @@ The following guidelines indicate when the use of an index should be reconsidere
     ALTER TABLE table_name 
     DROP PRIMARY KEY;
     
-# SQL - TRUNCATE TABLE
+# SQL - TRUNCATE TABLE 🎲
 
 - The SQL TRUNCATE TABLE command is used to delete complete data from an existing table.
 - You can also use DROP TABLE command to delete complete table but it would remove complete table structure form the database and you would need to re-create this table once again if you wish you store some data.
