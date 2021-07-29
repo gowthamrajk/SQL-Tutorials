@@ -752,4 +752,7 @@ The following guidelines indicate when the use of an index should be reconsidere
 
 ### ADD PRIMARY KEY
 
+    ALTER TABLE table_name 
+    ADD CONSTRAINT MyPrimaryKey PRIMARY KEY (column1, column2...);
     
+
