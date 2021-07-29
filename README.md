@@ -597,5 +597,12 @@ There are different types of joins available in SQL −
     
 # SQL - UNIONS CLAUSE ✅
 
+- The SQL UNION clause/operator is used to combine the results of two or more SELECT statements without returning any duplicate rows.
+- To use this UNION clause, each SELECT statement must have
 
+**- The same number of columns selected**
+
+**- The same number of column expressions**
+
+**- The same data type and have them in the same order**
 
