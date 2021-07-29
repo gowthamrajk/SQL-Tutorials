@@ -648,3 +648,9 @@ There are different types of joins available in SQL −
 
 # SQL - NULL Values ⛔
 
+- SQL NULL is the term used to represent a missing value. 
+- A NULL value in a table is a value in a field that appears to be blank.
+- A field with a NULL value is a field with no value. 
+- It is very important to understand that a NULL value is different than a zero value or a field that contains spaces.
+
+    
