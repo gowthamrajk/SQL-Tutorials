@@ -653,4 +653,11 @@ There are different types of joins available in SQL −
 - A field with a NULL value is a field with no value. 
 - It is very important to understand that a NULL value is different than a zero value or a field that contains spaces.
 
-    
+      CREATE TABLE CUSTOMERS(
+          ID   INT              NOT NULL,
+          NAME VARCHAR (20)     NOT NULL,
+          AGE  INT              NOT NULL,
+          ADDRESS  CHAR (25) ,
+          SALARY   DECIMAL (18, 2),       
+          PRIMARY KEY (ID)
+      );
