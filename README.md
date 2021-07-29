@@ -518,7 +518,7 @@ There are different types of joins available in SQL −
 
 ### 2) LEFT JOIN − returns all rows from the left table, even if there are no matches in the right table.
 
-### RIGHT JOIN − returns all rows from the right table, even if there are no matches in the left table.
+### 3) RIGHT JOIN − returns all rows from the right table, even if there are no matches in the left table.
 
 ### FULL JOIN − returns rows when there is a match in one of the tables.
 
