@@ -765,4 +765,7 @@ The following guidelines indicate when the use of an index should be reconsidere
 
 ### DROP PRIMARY KEY
 
+    ALTER TABLE table_name 
+    DROP CONSTRAINT MyPrimaryKey;
+    
     
