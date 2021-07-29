@@ -512,7 +512,7 @@ Following are some of the most commonly used constraints available in SQL −
 - Several operators can be used to join tables, such as =, <, >, <>, <=, >=, !=, BETWEEN, LIKE, and NOT; they can all be used to join tables. 
 - However, the most common operator is the equal to symbol.
 
-- There are different types of joins available in SQL −
+There are different types of joins available in SQL −
 
 ### INNER JOIN − returns rows when there is a match in both tables.
 
