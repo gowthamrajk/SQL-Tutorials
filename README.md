@@ -638,4 +638,10 @@ There are different types of joins available in SQL −
     
 ## EXCEPT
 
-    
+    SELECT column1 [, column2 ]
+    FROM table1 [, table2 ]
+    [WHERE condition]
+    EXCEPT
+    SELECT column1 [, column2 ]
+    FROM table1 [, table2 ]
+    [WHERE condition]
