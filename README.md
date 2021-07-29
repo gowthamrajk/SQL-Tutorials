@@ -705,4 +705,6 @@ There are different types of joins available in SQL −
 - Implicit indexes are indexes that are automatically created by the database server when an object is created. 
 - Indexes are automatically created for primary key constraints and unique constraints.
 
-### 
+### DROP INDEX
+
+
