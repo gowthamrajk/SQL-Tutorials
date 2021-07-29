@@ -750,4 +750,6 @@ The following guidelines indicate when the use of an index should be reconsidere
     ALTER TABLE table_name 
     ADD CONSTRAINT MyUniqueConstraint CHECK (CONDITION);
 
+### ADD PRIMARY KEY
 
+    
