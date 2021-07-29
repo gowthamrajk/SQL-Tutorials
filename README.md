@@ -768,4 +768,9 @@ The following guidelines indicate when the use of an index should be reconsidere
     ALTER TABLE table_name 
     DROP CONSTRAINT MyPrimaryKey;
     
+    ALTER TABLE table_name 
+    DROP PRIMARY KEY;
     
+# SQL - TRUNCATE TABLE
+
+
