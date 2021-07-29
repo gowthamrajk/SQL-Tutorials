@@ -688,4 +688,8 @@ There are different types of joins available in SQL −
       CREATE INDEX index_name
       ON table_name (column_name);
       
-### 
+### Unique Indexes
+- Unique indexes are used not only for performance, but also for data integrity. 
+- A unique index does not allow any duplicate values to be inserted into the table.
+
+      
