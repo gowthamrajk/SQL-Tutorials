@@ -747,4 +747,7 @@ The following guidelines indicate when the use of an index should be reconsidere
     
 ### ADD CHECK CONSTRAINT
 
-    
+    ALTER TABLE table_name 
+    ADD CONSTRAINT MyUniqueConstraint CHECK (CONDITION);
+
+
