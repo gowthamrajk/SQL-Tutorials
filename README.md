@@ -514,17 +514,17 @@ Following are some of the most commonly used constraints available in SQL −
 
 There are different types of joins available in SQL −
 
-### 1) INNER JOIN − returns rows when there is a match in both tables.
+**1) INNER JOIN − returns rows when there is a match in both tables.**
 
-### 2) LEFT JOIN − returns all rows from the left table, even if there are no matches in the right table.
+**2) LEFT JOIN − returns all rows from the left table, even if there are no matches in the right table.**
 
-### 3) RIGHT JOIN − returns all rows from the right table, even if there are no matches in the left table.
+**3) RIGHT JOIN − returns all rows from the right table, even if there are no matches in the left table.**
 
-### 4) FULL JOIN − returns rows when there is a match in one of the tables.
+**4) FULL JOIN − returns rows when there is a match in one of the tables.**
 
-### 5) SELF JOIN − is used to join a table to itself as if the table were two tables, temporarily renaming at least one table in the SQL statement.
+**5) SELF JOIN − is used to join a table to itself as if the table were two tables, temporarily renaming at least one table in the SQL statement.**
 
-### 6) CARTESIAN JOIN − returns the Cartesian product of the sets of records from the two or more joined tables.
+**6) CARTESIAN JOIN − returns the Cartesian product of the sets of records from the two or more joined tables.**
 
 # Various Syntax for Joins 🚨
 
