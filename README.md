@@ -661,3 +661,6 @@ There are different types of joins available in SQL −
           SALARY   DECIMAL (18, 2),       
           PRIMARY KEY (ID)
       );
+
+# SQL - Alias ✍
+
