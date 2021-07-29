@@ -718,3 +718,5 @@ The following guidelines indicate when the use of an index should be reconsidere
 ### DROP INDEX
 
     DROP INDEX index_name;
+
+# SQL - ALTER TABLE  ✍
