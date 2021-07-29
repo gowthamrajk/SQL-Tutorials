@@ -730,4 +730,6 @@ The following guidelines indicate when the use of an index should be reconsidere
 
 ### DROP COLUMN
 
+    ALTER TABLE table_name DROP COLUMN column_name;
     
+
