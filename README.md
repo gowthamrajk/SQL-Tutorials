@@ -686,7 +686,7 @@ The following guidelines indicate when the use of an index should be reconsidere
 
 **- Indexes should not be used on columns that contain a high number of NULL values.**
 
-**- Columns that are frequently manipulated should not be indexed.
+**- Columns that are frequently manipulated should not be indexed.**
 
 ### CREATE INDEX
 
