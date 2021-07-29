@@ -577,7 +577,9 @@ There are different types of joins available in SQL −
     matching_column: Column common to both the tables.
     
     
-## 5) 
+## 5) SELF JOIN
+
+    
 ## 6) CARTESIAN JOIN
 
     SELECT table1.column1 , table1.column2, table2.column1...
