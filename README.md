@@ -618,4 +618,12 @@ There are different types of joins available in SQL −
     
 ## UNION ALL
 
-    
+    SELECT column1 [, column2 ]
+    FROM table1 [, table2 ]
+    [WHERE condition]
+    UNION ALL
+    SELECT column1 [, column2 ]
+    FROM table1 [, table2 ]
+    [WHERE condition]
+
+## 
