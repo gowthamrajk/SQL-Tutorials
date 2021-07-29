@@ -627,3 +627,12 @@ There are different types of joins available in SQL −
     [WHERE condition]
 
 ## INTERSECT
+
+    SELECT column1 [, column2 ]
+    FROM table1 [, table2 ]
+    [WHERE condition]
+    INTERSECT
+    SELECT column1 [, column2 ]
+    FROM table1 [, table2 ]
+    [WHERE condition]
+    
