@@ -527,3 +527,6 @@ There are different types of joins available in SQL −
 ### 6) CARTESIAN JOIN − returns the Cartesian product of the sets of records from the two or more joined tables.
 
 # Various Syntax for Joins 🚨
+
+## INNER JOIN
+
