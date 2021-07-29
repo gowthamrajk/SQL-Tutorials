@@ -606,3 +606,5 @@ There are different types of joins available in SQL −
 
 **- The same data type and have them in the same order**
 
+## UNION
+
