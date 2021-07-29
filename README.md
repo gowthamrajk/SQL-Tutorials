@@ -595,5 +595,7 @@ There are different types of joins available in SQL −
     table1: First table.
     table2: Second table
     
+# SQL - UNIONS CLAUSE ✅
+
 
 
