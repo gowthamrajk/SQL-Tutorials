@@ -645,3 +645,6 @@ There are different types of joins available in SQL −
     SELECT column1 [, column2 ]
     FROM table1 [, table2 ]
     [WHERE condition]
+
+# SQL - NULL Values ⛔
+
