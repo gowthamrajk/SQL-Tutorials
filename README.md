@@ -528,5 +528,5 @@ There are different types of joins available in SQL −
 
 # Various Syntax for Joins 🚨
 
-## INNER JOIN
+## 1) INNER JOIN
 
