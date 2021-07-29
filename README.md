@@ -682,7 +682,7 @@ The following guidelines indicate when the use of an index should be reconsidere
 
 **- Indexes should not be used on small tables.**
 
-**- Tables that have frequent, large batch updates or insert operations.
+**- Tables that have frequent, large batch updates or insert operations.**
 
 **- Indexes should not be used on columns that contain a high number of NULL values.
 
