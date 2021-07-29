@@ -734,4 +734,4 @@ The following guidelines indicate when the use of an index should be reconsidere
     
 ### Change DATA TYPE
 
-    
+    ALTER TABLE table_name MODIFY COLUMN column_name datatype;
