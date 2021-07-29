@@ -757,4 +757,7 @@ The following guidelines indicate when the use of an index should be reconsidere
     
 ### DROP CONSTRAINT
 
+    ALTER TABLE table_name 
+    DROP CONSTRAINT MyUniqueConstraint;
     
+
