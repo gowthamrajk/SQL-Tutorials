@@ -672,3 +672,5 @@ There are different types of joins available in SQL −
       FROM table_name AS alias_name
       WHERE [condition];
       
+# SQL - Indexes ✌
+
