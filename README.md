@@ -698,4 +698,7 @@ There are different types of joins available in SQL −
 ### Composite Indexes
 - A composite index is an index on two or more columns of a table.
 
+      CREATE INDEX index_name
+      on table_name (column1, column2);
       
+
