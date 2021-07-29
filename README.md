@@ -678,3 +678,6 @@ There are different types of joins available in SQL −
 - Simply put, an index is a pointer to data in a table. 
 - An index in a database is very similar to an index in the back of a book.
 
+### CREATE INDEX
+
+    
