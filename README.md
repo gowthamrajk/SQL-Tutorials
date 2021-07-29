@@ -680,4 +680,4 @@ There are different types of joins available in SQL −
 
 ### CREATE INDEX
 
-    
+    CREATE INDEX index_name ON table_name;
