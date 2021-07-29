@@ -516,7 +516,7 @@ Following are some of the most commonly used constraints available in SQL −
 
 ### INNER JOIN − returns rows when there is a match in both tables.
 
-LEFT JOIN − returns all rows from the left table, even if there are no matches in the right table.
+### LEFT JOIN − returns all rows from the left table, even if there are no matches in the right table.
 
 RIGHT JOIN − returns all rows from the right table, even if there are no matches in the left table.
 
