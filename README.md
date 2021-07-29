@@ -778,3 +778,4 @@ The following guidelines indicate when the use of an index should be reconsidere
 
       TRUNCATE TABLE  table_name;
 
+# SQL - Using Views ⭐
