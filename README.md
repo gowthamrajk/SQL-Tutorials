@@ -576,7 +576,17 @@ There are different types of joins available in SQL −
     table2: Second table
     matching_column: Column common to both the tables.
     
+    
+## 5) 
 ## 6) CARTESIAN JOIN
 
+    SELECT table1.column1 , table1.column2, table2.column1...
+    FROM table1
+    CROSS JOIN table2;
+
+
+    table1: First table.
+    table2: Second table
     
+
 
