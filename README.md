@@ -794,3 +794,10 @@ The following guidelines indicate when the use of an index should be reconsidere
 
 ## Creating Views
 
+    CREATE VIEW view_name AS
+    SELECT column1, column2.....
+    FROM table_name
+    WHERE [condition];
+    
+
+
