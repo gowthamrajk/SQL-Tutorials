@@ -855,4 +855,11 @@ A view can be updated under certain conditions which are given below −
 - The HAVING Clause enables you to specify conditions that filter which group results appear in the results.
 - The WHERE clause places conditions on the selected columns, whereas the HAVING clause places conditions on groups created by the GROUP BY clause.
 
-     
+      SELECT column1, column2
+      FROM table1, table2
+      WHERE [ conditions ]
+      GROUP BY column1, column2
+      HAVING [ conditions ]
+      ORDER BY column1, column2
+      
+
