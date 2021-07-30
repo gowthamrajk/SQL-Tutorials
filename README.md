@@ -824,7 +824,7 @@ A view can be updated under certain conditions which are given below −
 
 **- The SELECT clause may not contain set operators.**
 
-**- The SELECT clause may not contain an ORDER BY clause.
+**- The SELECT clause may not contain an ORDER BY clause.**
 
 **- The FROM clause may not contain multiple tables.
 
