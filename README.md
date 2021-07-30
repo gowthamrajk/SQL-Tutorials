@@ -805,4 +805,9 @@ The following guidelines indicate when the use of an index should be reconsidere
 - The purpose of the WITH CHECK OPTION is to ensure that all UPDATE and INSERTs satisfy the condition(s) in the view definition.
 - If they do not satisfy the condition(s), the UPDATE or INSERT returns an error.
 
-    
+      CREATE VIEW CUSTOMERS_VIEW AS
+      SELECT name, age
+      FROM  CUSTOMERS
+      WHERE age IS NOT NULL
+      WITH CHECK OPTION;  
+      
