@@ -830,7 +830,7 @@ A view can be updated under certain conditions which are given below −
 
 **- The WHERE clause may not contain subqueries.**
 
-**- The query may not contain GROUP BY or HAVING.
+**- The query may not contain GROUP BY or HAVING.**
 
 **- Calculated columns may not be updated.
 
