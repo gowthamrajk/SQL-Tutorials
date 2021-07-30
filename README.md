@@ -816,7 +816,7 @@ Views, which are a type of virtual tables allow users to do the following −
 
 A view can be updated under certain conditions which are given below −
 
-**- The SELECT clause may not contain the keyword DISTINCT.
+**- The SELECT clause may not contain the keyword DISTINCT.**
 
 **- The SELECT clause may not contain summary functions.
 
