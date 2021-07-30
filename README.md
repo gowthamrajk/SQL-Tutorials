@@ -801,5 +801,8 @@ The following guidelines indicate when the use of an index should be reconsidere
     
 ## WITH CHECK OPTION
 
-- 
+- The WITH CHECK OPTION is a CREATE VIEW statement option. 
+- The purpose of the WITH CHECK OPTION is to ensure that all UPDATE and INSERTs satisfy the condition(s) in the view definition.
+- If they do not satisfy the condition(s), the UPDATE or INSERT returns an error.
 
+    
