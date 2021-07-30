@@ -841,3 +841,6 @@ A view can be updated under certain conditions which are given below −
 - Rows of data can be inserted into a view. 
 - The same rules that apply to the UPDATE command also apply to the INSERT command.
 
+## Deleting Rows into a View
+
+- 
