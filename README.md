@@ -828,7 +828,7 @@ A view can be updated under certain conditions which are given below −
 
 **- The FROM clause may not contain multiple tables.
 
-The WHERE clause may not contain subqueries.
+**- The WHERE clause may not contain subqueries.
 
 The query may not contain GROUP BY or HAVING.
 
