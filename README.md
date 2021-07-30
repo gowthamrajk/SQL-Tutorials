@@ -799,5 +799,7 @@ The following guidelines indicate when the use of an index should be reconsidere
     FROM table_name
     WHERE [condition];
     
+## WITH CHECK OPTION
 
+- 
 
