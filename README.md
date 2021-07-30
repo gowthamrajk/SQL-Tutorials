@@ -862,4 +862,4 @@ A view can be updated under certain conditions which are given below −
       HAVING [ conditions ]
       ORDER BY column1, column2
       
-
+# SQL - Transactions ⭐
