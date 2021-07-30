@@ -834,4 +834,4 @@ A view can be updated under certain conditions which are given below −
 
 **- Calculated columns may not be updated.**
 
-**- All NOT NULL columns from the base table must be included in the view in order for the INSERT query to function.
+**- All NOT NULL columns from the base table must be included in the view in order for the INSERT query to function.**
