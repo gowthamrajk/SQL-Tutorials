@@ -850,4 +850,6 @@ A view can be updated under certain conditions which are given below −
 
     DROP VIEW view_name;
     
+# SQL - Having Clause 🚨
+
 
