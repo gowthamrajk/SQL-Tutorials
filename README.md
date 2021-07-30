@@ -848,4 +848,6 @@ A view can be updated under certain conditions which are given below −
 
 ## Dropping Views
 
+    DROP VIEW view_name;
     
+
