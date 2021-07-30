@@ -811,3 +811,6 @@ The following guidelines indicate when the use of an index should be reconsidere
       WHERE age IS NOT NULL
       WITH CHECK OPTION;  
       
+## Updating a View
+
+- 
