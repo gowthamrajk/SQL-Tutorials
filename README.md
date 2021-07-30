@@ -846,4 +846,6 @@ A view can be updated under certain conditions which are given below −
 - Rows of data can be deleted from a view. 
 - The same rules that apply to the UPDATE and INSERT commands apply to the DELETE command.
 
+## Dropping Views
 
+    
