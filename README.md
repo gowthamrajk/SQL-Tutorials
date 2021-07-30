@@ -779,3 +779,16 @@ The following guidelines indicate when the use of an index should be reconsidere
       TRUNCATE TABLE  table_name;
 
 # SQL - Using Views ⭐
+
+- A view is nothing more than a SQL statement that is stored in the database with an associated name. 
+- A view is actually a composition of a table in the form of a predefined SQL query.
+- A view can contain all rows of a table or select rows from a table. 
+- A view can be created from one or many tables which depends on the written SQL query to create a view.
+- Views, which are a type of virtual tables allow users to do the following −
+
+**- Structure data in a way that users or classes of users find natural or intuitive.**
+
+**- Restrict access to the data in such a way that a user can see and (sometimes) modify exactly what they need and no more.**
+
+**- Summarize data from various tables which can be used to generate reports.**
+
