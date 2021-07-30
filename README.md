@@ -818,7 +818,7 @@ A view can be updated under certain conditions which are given below −
 
 **- The SELECT clause may not contain the keyword DISTINCT.
 
-The SELECT clause may not contain summary functions.
+**- The SELECT clause may not contain summary functions.
 
 The SELECT clause may not contain set functions.
 
