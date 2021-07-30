@@ -832,6 +832,6 @@ A view can be updated under certain conditions which are given below −
 
 **- The query may not contain GROUP BY or HAVING.
 
-Calculated columns may not be updated.
+**- Calculated columns may not be updated.
 
 All NOT NULL columns from the base table must be included in the view in order for the INSERT query to function.
