@@ -852,4 +852,7 @@ A view can be updated under certain conditions which are given below −
     
 # SQL - Having Clause 🚨
 
+- The HAVING Clause enables you to specify conditions that filter which group results appear in the results.
+- The WHERE clause places conditions on the selected columns, whereas the HAVING clause places conditions on groups created by the GROUP BY clause.
 
+     
