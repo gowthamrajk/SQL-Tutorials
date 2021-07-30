@@ -792,3 +792,5 @@ The following guidelines indicate when the use of an index should be reconsidere
 
 **- Summarize data from various tables which can be used to generate reports.**
 
+## Creating Views
+
