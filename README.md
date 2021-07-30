@@ -784,7 +784,8 @@ The following guidelines indicate when the use of an index should be reconsidere
 - A view is actually a composition of a table in the form of a predefined SQL query.
 - A view can contain all rows of a table or select rows from a table. 
 - A view can be created from one or many tables which depends on the written SQL query to create a view.
-- Views, which are a type of virtual tables allow users to do the following −
+- 
+Views, which are a type of virtual tables allow users to do the following −
 
 **- Structure data in a way that users or classes of users find natural or intuitive.**
 
@@ -813,4 +814,24 @@ The following guidelines indicate when the use of an index should be reconsidere
       
 ## Updating a View
 
-- 
+A view can be updated under certain conditions which are given below −
+
+**- The SELECT clause may not contain the keyword DISTINCT.
+
+The SELECT clause may not contain summary functions.
+
+The SELECT clause may not contain set functions.
+
+The SELECT clause may not contain set operators.
+
+The SELECT clause may not contain an ORDER BY clause.
+
+The FROM clause may not contain multiple tables.
+
+The WHERE clause may not contain subqueries.
+
+The query may not contain GROUP BY or HAVING.
+
+Calculated columns may not be updated.
+
+All NOT NULL columns from the base table must be included in the view in order for the INSERT query to function.
