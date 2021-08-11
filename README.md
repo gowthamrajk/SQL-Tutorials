@@ -955,7 +955,7 @@ Finds any values that have 200 in any position.
 
 Finds any values that have 00 in the second and third positions.
 
-WHERE SALARY LIKE '2_%_%'
+### WHERE SALARY LIKE '2_%_%'
 
 Finds any values that start with 2 and are at least 3 characters in length.
 
