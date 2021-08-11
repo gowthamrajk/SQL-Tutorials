@@ -891,7 +891,7 @@ Otherwise, the transaction is aborted at the point of failure and all the previo
 
 ### COMMIT − to save the changes.
 
-ROLLBACK − to roll back the changes.
+### ROLLBACK − to roll back the changes.
 
 SAVEPOINT − creates points within the groups of transactions in which to ROLLBACK.
 
