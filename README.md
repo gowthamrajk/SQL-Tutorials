@@ -924,5 +924,6 @@ Transactions have the following four standard properties, usually referred to by
     WHERE column LIKE 'XXXX%'
         
     or 
-
-
+    
+    SELECT * FROM table_name
+    WHERE column LIKE '%XXXX%'
