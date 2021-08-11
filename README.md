@@ -963,7 +963,7 @@ Finds any values that start with 2 and are at least 3 characters in length.
 
 Finds any values that end with 2.
 
-WHERE SALARY LIKE '_2%3'
+### WHERE SALARY LIKE '_2%3'
 
 Finds any values that have a 2 in the second position and end with a 3.
 	
