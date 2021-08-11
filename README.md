@@ -895,4 +895,4 @@ Otherwise, the transaction is aborted at the point of failure and all the previo
 
 ### SAVEPOINT − creates points within the groups of transactions in which to ROLLBACK.
 
-SET TRANSACTION − Places a name on a transaction.
+### SET TRANSACTION − Places a name on a transaction.
