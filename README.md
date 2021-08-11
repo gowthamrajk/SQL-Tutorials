@@ -942,3 +942,37 @@ Transactions have the following four standard properties, usually referred to by
     
     SELECT * FROM table_name
     WHERE column LIKE '_XXXX_'
+
+### WHERE SALARY LIKE '200%'
+
+Finds any values that start with 200.
+
+2	
+WHERE SALARY LIKE '%200%'
+
+Finds any values that have 200 in any position.
+
+3	
+WHERE SALARY LIKE '_00%'
+
+Finds any values that have 00 in the second and third positions.
+
+4	
+WHERE SALARY LIKE '2_%_%'
+
+Finds any values that start with 2 and are at least 3 characters in length.
+
+5	
+WHERE SALARY LIKE '%2'
+
+Finds any values that end with 2.
+
+6	
+WHERE SALARY LIKE '_2%3'
+
+Finds any values that have a 2 in the second position and end with a 3.
+
+7	
+WHERE SALARY LIKE '2___3'
+
+Finds any values in a five-digit number that start with 2 and end with 3.
