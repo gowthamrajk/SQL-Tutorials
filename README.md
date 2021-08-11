@@ -971,4 +971,4 @@ Transactions have the following four standard properties, usually referred to by
 
 - Finds any values in a five-digit number that start with 2 and end with 3.
 
-# SQL - Date Functions
+# SQL - Date Functions 📅
