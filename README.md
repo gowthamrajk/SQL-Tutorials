@@ -949,7 +949,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### WHERE SALARY LIKE '%200%'
 
-Finds any values that have 200 in any position.
+- Finds any values that have 200 in any position.
 	
 ### WHERE SALARY LIKE '_00%'
 
