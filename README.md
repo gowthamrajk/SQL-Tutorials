@@ -935,4 +935,5 @@ Transactions have the following four standard properties, usually referred to by
     
     or
     
-    
+    SELECT * FROM table_name
+    WHERE column LIKE '_XXXX'
