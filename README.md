@@ -957,7 +957,6 @@ WHERE SALARY LIKE '_00%'
 
 Finds any values that have 00 in the second and third positions.
 
-4	
 WHERE SALARY LIKE '2_%_%'
 
 Finds any values that start with 2 and are at least 3 characters in length.
