@@ -912,7 +912,7 @@ Matches one or more characters.
 
 Note − MS Access uses the asterisk (*) wildcard character instead of the percent sign (%) wildcard character.
 	
-The underscore (_)
+### The underscore (_)
 
 Matches one character.
 
