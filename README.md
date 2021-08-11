@@ -916,4 +916,4 @@ Transactions have the following four standard properties, usually referred to by
 
 - Matches one character.
 
-Note − MS Access uses a question mark (?) instead of the underscore (_) to match any one character.
+**Note − MS Access uses a question mark (?) instead of the underscore (_) to match any one character.
