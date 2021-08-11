@@ -951,8 +951,7 @@ Finds any values that start with 200.
 WHERE SALARY LIKE '%200%'
 
 Finds any values that have 200 in any position.
-
-3	
+	
 WHERE SALARY LIKE '_00%'
 
 Finds any values that have 00 in the second and third positions.
