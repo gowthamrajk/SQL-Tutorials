@@ -919,3 +919,6 @@ Transactions have the following four standard properties, usually referred to by
 **Note − MS Access uses a question mark (?) instead of the underscore (_) to match any one character.**
 
 ## Syntax
+
+    SELECT * FROM table_name
+    WHERE column LIKE 'XXXX%'
