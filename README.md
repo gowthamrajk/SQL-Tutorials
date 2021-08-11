@@ -890,6 +890,8 @@ Transactions have the following four standard properties, usually referred to by
 
 ### ROLLBACK − to roll back the changes.
 
+    ROLLBACK;
+
 ### SAVEPOINT − creates points within the groups of transactions in which to ROLLBACK.
 
 ### SET TRANSACTION − Places a name on a transaction.
