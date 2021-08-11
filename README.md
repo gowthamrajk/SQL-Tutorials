@@ -927,3 +927,5 @@ Transactions have the following four standard properties, usually referred to by
     
     SELECT * FROM table_name
     WHERE column LIKE '%XXXX%'
+    
+    (or)
