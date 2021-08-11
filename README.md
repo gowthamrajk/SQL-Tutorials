@@ -874,7 +874,8 @@ A view can be updated under certain conditions which are given below −
 
 Transactions have the following four standard properties, usually referred to by the acronym ACID.
 
-**Atomicity** − ensures that all operations within the work unit are completed successfully. Otherwise, the transaction is aborted at the point of failure and all the previous operations are rolled back to their former state.
+**Atomicity**
+− ensures that all operations within the work unit are completed successfully. Otherwise, the transaction is aborted at the point of failure and all the previous operations are rolled back to their former state.
 
 Consistency − ensures that the database properly changes states upon a successfully committed transaction.
 
