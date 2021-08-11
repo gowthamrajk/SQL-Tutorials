@@ -969,4 +969,4 @@ Transactions have the following four standard properties, usually referred to by
 	
 ### WHERE SALARY LIKE '2___3'
 
-Finds any values in a five-digit number that start with 2 and end with 3.
+- Finds any values in a five-digit number that start with 2 and end with 3.
