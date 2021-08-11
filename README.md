@@ -961,7 +961,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### WHERE SALARY LIKE '%2'
 
-Finds any values that end with 2.
+- Finds any values that end with 2.
 
 ### WHERE SALARY LIKE '_2%3'
 
