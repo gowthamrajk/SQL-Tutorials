@@ -967,6 +967,6 @@ Finds any values that end with 2.
 
 Finds any values that have a 2 in the second position and end with a 3.
 	
-WHERE SALARY LIKE '2___3'
+### WHERE SALARY LIKE '2___3'
 
 Finds any values in a five-digit number that start with 2 and end with 3.
