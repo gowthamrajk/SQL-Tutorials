@@ -881,6 +881,6 @@ Otherwise, the transaction is aborted at the point of failure and all the previo
 **Consistency** 
 − ensures that the database properly changes states upon a successfully committed transaction.
 
-**Isolation − enables transactions to operate independently of and transparent to each other.
+**Isolation** − enables transactions to operate independently of and transparent to each other.
 
 Durability − ensures that the result or effect of a committed transaction persists in case of a system failure.
