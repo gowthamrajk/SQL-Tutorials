@@ -953,7 +953,7 @@ Transactions have the following four standard properties, usually referred to by
 	
 ### WHERE SALARY LIKE '_00%'
 
-Finds any values that have 00 in the second and third positions.
+- Finds any values that have 00 in the second and third positions.
 
 ### WHERE SALARY LIKE '2_%_%'
 
