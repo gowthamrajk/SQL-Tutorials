@@ -905,3 +905,15 @@ Transactions have the following four standard properties, usually referred to by
     SET TRANSACTION [ READ WRITE | READ ONLY ];
 
 # SQL - Wildcard Operators ✅
+
+The percent sign (%)
+
+Matches one or more characters.
+
+Note − MS Access uses the asterisk (*) wildcard character instead of the percent sign (%) wildcard character.
+	
+The underscore (_)
+
+Matches one character.
+
+Note − MS Access uses a question mark (?) instead of the underscore (_) to match any one character.
