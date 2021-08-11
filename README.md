@@ -889,7 +889,7 @@ Otherwise, the transaction is aborted at the point of failure and all the previo
 
 ## Transaction Control Commands
 
-COMMIT − to save the changes.
+### COMMIT − to save the changes.
 
 ROLLBACK − to roll back the changes.
 
