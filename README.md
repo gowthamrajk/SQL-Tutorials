@@ -869,3 +869,15 @@ A view can be updated under certain conditions which are given below −
 - A transaction is the propagation of one or more changes to the database. 
 - For example, if you are creating a record or updating a record or deleting a record from the table, then you are performing a transaction on that table. 
 - It is important to control these transactions to ensure the data integrity and to handle database errors.
+
+## Properties of Transactions
+
+Transactions have the following four standard properties, usually referred to by the acronym ACID.
+
+Atomicity − ensures that all operations within the work unit are completed successfully. Otherwise, the transaction is aborted at the point of failure and all the previous operations are rolled back to their former state.
+
+Consistency − ensures that the database properly changes states upon a successfully committed transaction.
+
+Isolation − enables transactions to operate independently of and transparent to each other.
+
+Durability − ensures that the result or effect of a committed transaction persists in case of a system failure.
