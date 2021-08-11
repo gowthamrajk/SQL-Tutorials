@@ -957,7 +957,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### WHERE SALARY LIKE '2_%_%'
 
-Finds any values that start with 2 and are at least 3 characters in length.
+- Finds any values that start with 2 and are at least 3 characters in length.
 
 ### WHERE SALARY LIKE '%2'
 
