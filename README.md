@@ -959,7 +959,7 @@ Finds any values that have 00 in the second and third positions.
 
 Finds any values that start with 2 and are at least 3 characters in length.
 
-WHERE SALARY LIKE '%2'
+### WHERE SALARY LIKE '%2'
 
 Finds any values that end with 2.
 
