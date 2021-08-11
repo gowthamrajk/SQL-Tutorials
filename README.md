@@ -901,3 +901,7 @@ Transactions have the following four standard properties, usually referred to by
     RELEASE SAVEPOINT SAVEPOINT_NAME;
 
 ### SET TRANSACTION − Places a name on a transaction.
+
+    SET TRANSACTION [ READ WRITE | READ ONLY ];
+
+
