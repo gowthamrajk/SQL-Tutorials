@@ -906,7 +906,7 @@ Transactions have the following four standard properties, usually referred to by
 
 # SQL - Wildcard Operators ✅
 
-The percent sign (%)
+### The percent sign (%)
 
 Matches one or more characters.
 
