@@ -878,7 +878,7 @@ Transactions have the following four standard properties, usually referred to by
 − ensures that all operations within the work unit are completed successfully. 
 Otherwise, the transaction is aborted at the point of failure and all the previous operations are rolled back to their former state.
 
-**Consistency − ensures that the database properly changes states upon a successfully committed transaction.
+**Consistency** − ensures that the database properly changes states upon a successfully committed transaction.
 
 Isolation − enables transactions to operate independently of and transparent to each other.
 
