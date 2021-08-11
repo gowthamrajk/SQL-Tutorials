@@ -947,7 +947,6 @@ Transactions have the following four standard properties, usually referred to by
 
 Finds any values that start with 200.
 
-2	
 WHERE SALARY LIKE '%200%'
 
 Finds any values that have 200 in any position.
