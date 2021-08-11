@@ -962,7 +962,6 @@ WHERE SALARY LIKE '2_%_%'
 
 Finds any values that start with 2 and are at least 3 characters in length.
 
-5	
 WHERE SALARY LIKE '%2'
 
 Finds any values that end with 2.
