@@ -912,7 +912,7 @@ Transactions have the following four standard properties, usually referred to by
 
 **Note − MS Access uses the asterisk (*) wildcard character instead of the percent sign (%) wildcard character.**
 	
-### The underscore (_)
+### 2) The underscore (_)
 
 Matches one character.
 
