@@ -898,6 +898,6 @@ Transactions have the following four standard properties, usually referred to by
     
     ROLLBACK TO SAVEPOINT_NAME;
     
-    
+    RELEASE SAVEPOINT SAVEPOINT_NAME;
 
 ### SET TRANSACTION − Places a name on a transaction.
