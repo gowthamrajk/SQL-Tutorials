@@ -1073,8 +1073,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### UNIX_TIMESTAMP() - Returns a UNIX timestamp
 
-51	UTC_DATE()
-Returns the current UTC date
+### UTC_DATE() - Returns the current UTC date
 
 52	UTC_TIME()
 Returns the current UTC time
