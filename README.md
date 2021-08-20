@@ -973,11 +973,9 @@ Transactions have the following four standard properties, usually referred to by
 
 # SQL - Date Functions 📅
 
-### ADDDATE()
-- Adds dates
+### ADDDATE() - Adds dates
 
-2	ADDTIME()
-Adds time
+### ADDTIME() - Adds time
 
 3	CONVERT_TZ()
 Converts from one timezone to another
