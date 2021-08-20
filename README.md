@@ -981,8 +981,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### CURDATE() - Returns the current date
 
-5	CURRENT_DATE(), CURRENT_DATE
-Synonyms for CURDATE()
+### CURRENT_DATE(), CURRENT_DATE - Synonyms for CURDATE()
 
 6	CURRENT_TIME(), CURRENT_TIME
 Synonyms for CURTIME()
