@@ -1007,8 +1007,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### DAYOFWEEK() - Returns the weekday index of the argument
 
-18	DAYOFYEAR()
-Returns the day of the year (1-366)
+### DAYOFYEAR() - Returns the day of the year (1-366)
 
 19	EXTRACT
 Extracts part of a date
