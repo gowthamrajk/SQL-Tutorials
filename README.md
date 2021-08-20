@@ -1083,8 +1083,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### WEEKDAY() - Returns the weekday index
 
-56	WEEKOFYEAR()
-Returns the calendar week of the date (1-53)
+### WEEKOFYEAR() - Returns the calendar week of the date (1-53)
 
 57	YEAR()
 Returns the year
