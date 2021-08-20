@@ -1079,8 +1079,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### UTC_TIMESTAMP() - Returns the current UTC date and time
 
-54	WEEK()
-Returns the week number
+### WEEK() - Returns the week number
 
 55	WEEKDAY()
 Returns the weekday index
