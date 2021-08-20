@@ -1031,8 +1031,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### MINUTE() - Returns the minute from the argument
 
-30	MONTH()
-Return the month from the date passed
+### MONTH() - Return the month from the date passed
 
 31	MONTHNAME()
 Returns the name of the month
