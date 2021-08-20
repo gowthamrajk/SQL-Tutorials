@@ -1071,8 +1071,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### TO_DAYS() - Returns the date argument converted to days
 
-50	UNIX_TIMESTAMP()
-Returns a UNIX timestamp
+### UNIX_TIMESTAMP() - Returns a UNIX timestamp
 
 51	UTC_DATE()
 Returns the current UTC date
