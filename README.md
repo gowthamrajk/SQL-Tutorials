@@ -1035,8 +1035,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### MONTHNAME() - Returns the name of the month
 
-32	NOW()
-Returns the current date and time
+### NOW() - Returns the current date and time
 
 33	PERIOD_ADD()
 Adds a period to a year-month
