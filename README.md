@@ -1087,5 +1087,4 @@ Transactions have the following four standard properties, usually referred to by
 
 ### YEAR() - Returns the year
 
-58	YEARWEEK()
-Returns the year and week
+### YEARWEEK() - Returns the year and week
