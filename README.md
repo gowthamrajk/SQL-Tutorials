@@ -1041,8 +1041,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### PERIOD_DIFF() - Returns the number of months between periods
 
-35	QUARTER()
-Returns the quarter from a date argument
+### QUARTER() - Returns the quarter from a date argument
 
 36	SEC_TO_TIME()
 Converts seconds to 'HH:MM:SS' format
