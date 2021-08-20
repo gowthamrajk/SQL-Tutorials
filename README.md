@@ -1047,8 +1047,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### SECOND() - Returns the second (0-59)
 
-38	STR_TO_DATE()
-Converts a string to a date
+### STR_TO_DATE() - Converts a string to a date
 
 39	SUBDATE()
 When invoked with three arguments a synonym for DATE_SUB()
