@@ -1055,8 +1055,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### SYSDATE() - Returns the time at which the function executes
 
-42	TIME_FORMAT()
-Formats as time
+### TIME_FORMAT() - Formats as time
 
 43	TIME_TO_SEC()
 Returns the argument converted to seconds
