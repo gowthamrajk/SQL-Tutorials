@@ -1043,8 +1043,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### QUARTER() - Returns the quarter from a date argument
 
-36	SEC_TO_TIME()
-Converts seconds to 'HH:MM:SS' format
+### SEC_TO_TIME() - Converts seconds to 'HH:MM:SS' format
 
 37	SECOND()
 Returns the second (0-59)
