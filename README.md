@@ -1039,8 +1039,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### PERIOD_ADD() - Adds a period to a year-month
 
-34	PERIOD_DIFF()
-Returns the number of months between periods
+### PERIOD_DIFF() - Returns the number of months between periods
 
 35	QUARTER()
 Returns the quarter from a date argument
