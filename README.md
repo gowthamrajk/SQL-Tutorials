@@ -1009,8 +1009,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### DAYOFYEAR() - Returns the day of the year (1-366)
 
-19	EXTRACT
-Extracts part of a date
+### EXTRACT - Extracts part of a date
 
 20	FROM_DAYS()
 Converts a day number to a date
