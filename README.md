@@ -1051,8 +1051,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### SUBDATE() - When invoked with three arguments a synonym for DATE_SUB()
 
-40	SUBTIME()
-Subtracts times
+### SUBTIME() - Subtracts times
 
 41	SYSDATE()
 Returns the time at which the function executes
