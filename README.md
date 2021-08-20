@@ -987,8 +987,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP - Synonyms for NOW()
 
-8	CURTIME()
-Returns the current time
+### CURTIME() - Returns the current time
 
 9	DATE_ADD()
 Adds two dates
