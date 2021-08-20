@@ -1069,8 +1069,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### IMESTAMPDIFF() - Subtracts an interval from a datetime expression
 
-49	TO_DAYS()
-Returns the date argument converted to days
+### TO_DAYS() - Returns the date argument converted to days
 
 50	UNIX_TIMESTAMP()
 Returns a UNIX timestamp
