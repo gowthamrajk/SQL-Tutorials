@@ -1067,8 +1067,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### TIMESTAMPADD() - Adds an interval to a datetime expression
 
-48	TIMESTAMPDIFF()
-Subtracts an interval from a datetime expression
+### IMESTAMPDIFF() - Subtracts an interval from a datetime expression
 
 49	TO_DAYS()
 Returns the date argument converted to days
