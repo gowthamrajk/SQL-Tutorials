@@ -1003,8 +1003,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### DAYNAME() - Returns the name of the weekday
 
-16	DAYOFMONTH()
-Returns the day of the month (1-31)
+### DAYOFMONTH() - Returns the day of the month (1-31)
 
 17	DAYOFWEEK()
 Returns the weekday index of the argument
