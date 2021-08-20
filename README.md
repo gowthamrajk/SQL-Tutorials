@@ -1029,8 +1029,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### MICROSECOND() - Returns the microseconds from argument
 
-29	MINUTE()
-Returns the minute from the argument
+### MINUTE() - Returns the minute from the argument
 
 30	MONTH()
 Return the month from the date passed
