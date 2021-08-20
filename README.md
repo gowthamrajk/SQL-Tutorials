@@ -1075,8 +1075,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### UTC_DATE() - Returns the current UTC date
 
-52	UTC_TIME()
-Returns the current UTC time
+### UTC_TIME() - Returns the current UTC time
 
 53	UTC_TIMESTAMP()
 Returns the current UTC date and time
