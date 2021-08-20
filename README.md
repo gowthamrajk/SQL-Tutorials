@@ -991,8 +991,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### ATE_ADD() - Adds two dates
 
-10	DATE_FORMAT()
-Formats date as specified
+### DATE_FORMAT() - Formats date as specified
 
 11	DATE_SUB()
 Subtracts two dates
