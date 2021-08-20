@@ -1063,8 +1063,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### TIMEDIFF() - Subtracts time
 
-46	TIMESTAMP()
-With a single argument this function returns the date or datetime expression. With two arguments, the sum of the arguments
+### TIMESTAMP() - With a single argument this function returns the date or datetime expression. With two arguments, the sum of the arguments
 
 47	TIMESTAMPADD()
 Adds an interval to a datetime expression
