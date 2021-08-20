@@ -983,8 +983,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### CURRENT_DATE(), CURRENT_DATE - Synonyms for CURDATE()
 
-6	CURRENT_TIME(), CURRENT_TIME
-Synonyms for CURTIME()
+### CURRENT_TIME(), CURRENT_TIME - Synonyms for CURTIME()
 
 7	CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP
 Synonyms for NOW()
