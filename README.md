@@ -1085,8 +1085,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### WEEKOFYEAR() - Returns the calendar week of the date (1-53)
 
-57	YEAR()
-Returns the year
+### YEAR() - Returns the year
 
 58	YEARWEEK()
 Returns the year and week
