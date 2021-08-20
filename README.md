@@ -1021,8 +1021,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### LOCALTIME(), LOCALTIME - Synonym for NOW()
 
-25	LOCALTIMESTAMP, LOCALTIMESTAMP()
-Synonym for NOW()
+### LOCALTIMESTAMP, LOCALTIMESTAMP() - Synonym for NOW()
 
 26	MAKEDATE()
 Creates a date from the year and day of year
