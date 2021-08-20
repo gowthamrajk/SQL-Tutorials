@@ -1001,8 +1001,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### DAY() - Synonym for DAYOFMONTH()
 
-15	DAYNAME()
-Returns the name of the weekday
+### DAYNAME() - Returns the name of the weekday
 
 16	DAYOFMONTH()
 Returns the day of the month (1-31)
