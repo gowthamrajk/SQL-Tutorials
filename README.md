@@ -993,8 +993,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### DATE_FORMAT() - Formats date as specified
 
-11	DATE_SUB()
-Subtracts two dates
+### DATE_SUB() - Subtracts two dates
 
 12	DATE()
 Extracts the date part of a date or datetime expression
