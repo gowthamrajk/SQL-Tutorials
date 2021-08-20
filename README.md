@@ -977,8 +977,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### ADDTIME() - Adds time
 
-3	CONVERT_TZ()
-Converts from one timezone to another
+### CONVERT_TZ() - Converts from one timezone to another
 
 4	CURDATE()
 Returns the current date
