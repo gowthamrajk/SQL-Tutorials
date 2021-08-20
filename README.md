@@ -979,8 +979,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### CONVERT_TZ() - Converts from one timezone to another
 
-4	CURDATE()
-Returns the current date
+### CURDATE() - Returns the current date
 
 5	CURRENT_DATE(), CURRENT_DATE
 Synonyms for CURDATE()
