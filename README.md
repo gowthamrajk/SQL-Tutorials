@@ -1015,8 +1015,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### FROM_UNIXTIME() - Formats date as a UNIX timestamp
 
-22	HOUR()
-Extracts the hour
+### HOUR() - Extracts the hour
 
 23	LAST_DAY
 Returns the last day of the month for the argument
