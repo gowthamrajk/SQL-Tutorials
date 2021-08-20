@@ -1053,8 +1053,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### SUBTIME() - Subtracts times
 
-41	SYSDATE()
-Returns the time at which the function executes
+### SYSDATE() - Returns the time at which the function executes
 
 42	TIME_FORMAT()
 Formats as time
