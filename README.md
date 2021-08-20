@@ -1013,8 +1013,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### FROM_DAYS() - Converts a day number to a date
 
-21	FROM_UNIXTIME()
-Formats date as a UNIX timestamp
+### FROM_UNIXTIME() - Formats date as a UNIX timestamp
 
 22	HOUR()
 Extracts the hour
