@@ -1019,8 +1019,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### LAST_DAY - Returns the last day of the month for the argument
 
-24	LOCALTIME(), LOCALTIME
-Synonym for NOW()
+### LOCALTIME(), LOCALTIME - Synonym for NOW()
 
 25	LOCALTIMESTAMP, LOCALTIMESTAMP()
 Synonym for NOW()
