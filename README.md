@@ -1045,8 +1045,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### SEC_TO_TIME() - Converts seconds to 'HH:MM:SS' format
 
-37	SECOND()
-Returns the second (0-59)
+### SECOND() - Returns the second (0-59)
 
 38	STR_TO_DATE()
 Converts a string to a date
