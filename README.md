@@ -1057,8 +1057,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### TIME_FORMAT() - Formats as time
 
-43	TIME_TO_SEC()
-Returns the argument converted to seconds
+### TIME_TO_SEC() - Returns the argument converted to seconds
 
 44	TIME()
 Extracts the time portion of the expression passed
