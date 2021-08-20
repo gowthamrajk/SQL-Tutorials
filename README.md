@@ -1011,8 +1011,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### EXTRACT - Extracts part of a date
 
-20	FROM_DAYS()
-Converts a day number to a date
+### FROM_DAYS() - Converts a day number to a date
 
 21	FROM_UNIXTIME()
 Formats date as a UNIX timestamp
