@@ -999,8 +999,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### DATEDIFF() - Subtracts two dates
 
-14	DAY()
-Synonym for DAYOFMONTH()
+### DAY() - Synonym for DAYOFMONTH()
 
 15	DAYNAME()
 Returns the name of the weekday
