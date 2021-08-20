@@ -1037,8 +1037,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### NOW() - Returns the current date and time
 
-33	PERIOD_ADD()
-Adds a period to a year-month
+### PERIOD_ADD() - Adds a period to a year-month
 
 34	PERIOD_DIFF()
 Returns the number of months between periods
