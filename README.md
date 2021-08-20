@@ -1033,8 +1033,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### MONTH() - Return the month from the date passed
 
-31	MONTHNAME()
-Returns the name of the month
+### MONTHNAME() - Returns the name of the month
 
 32	NOW()
 Returns the current date and time
