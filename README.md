@@ -1017,8 +1017,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### HOUR() - Extracts the hour
 
-23	LAST_DAY
-Returns the last day of the month for the argument
+### LAST_DAY - Returns the last day of the month for the argument
 
 24	LOCALTIME(), LOCALTIME
 Synonym for NOW()
