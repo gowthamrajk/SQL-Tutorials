@@ -997,8 +997,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### DATE() - Extracts the date part of a date or datetime expression
 
-13	DATEDIFF()
-Subtracts two dates
+### DATEDIFF() - Subtracts two dates
 
 14	DAY()
 Synonym for DAYOFMONTH()
