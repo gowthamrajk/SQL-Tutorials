@@ -1077,8 +1077,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### UTC_TIME() - Returns the current UTC time
 
-53	UTC_TIMESTAMP()
-Returns the current UTC date and time
+### UTC_TIMESTAMP() - Returns the current UTC date and time
 
 54	WEEK()
 Returns the week number
@@ -1094,4 +1093,3 @@ Returns the year
 
 58	YEARWEEK()
 Returns the year and week
-
