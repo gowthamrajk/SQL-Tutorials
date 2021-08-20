@@ -1025,8 +1025,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### MAKEDATE() - Creates a date from the year and day of year
 
-27	MAKETIME
-MAKETIME()
+### MAKETIME - MAKETIME()
 
 28	MICROSECOND()
 Returns the microseconds from argument
