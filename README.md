@@ -972,3 +972,178 @@ Transactions have the following four standard properties, usually referred to by
 - Finds any values in a five-digit number that start with 2 and end with 3.
 
 # SQL - Date Functions 📅
+
+### ADDDATE()
+- Adds dates
+
+2	ADDTIME()
+Adds time
+
+3	CONVERT_TZ()
+Converts from one timezone to another
+
+4	CURDATE()
+Returns the current date
+
+5	CURRENT_DATE(), CURRENT_DATE
+Synonyms for CURDATE()
+
+6	CURRENT_TIME(), CURRENT_TIME
+Synonyms for CURTIME()
+
+7	CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP
+Synonyms for NOW()
+
+8	CURTIME()
+Returns the current time
+
+9	DATE_ADD()
+Adds two dates
+
+10	DATE_FORMAT()
+Formats date as specified
+
+11	DATE_SUB()
+Subtracts two dates
+
+12	DATE()
+Extracts the date part of a date or datetime expression
+
+13	DATEDIFF()
+Subtracts two dates
+
+14	DAY()
+Synonym for DAYOFMONTH()
+
+15	DAYNAME()
+Returns the name of the weekday
+
+16	DAYOFMONTH()
+Returns the day of the month (1-31)
+
+17	DAYOFWEEK()
+Returns the weekday index of the argument
+
+18	DAYOFYEAR()
+Returns the day of the year (1-366)
+
+19	EXTRACT
+Extracts part of a date
+
+20	FROM_DAYS()
+Converts a day number to a date
+
+21	FROM_UNIXTIME()
+Formats date as a UNIX timestamp
+
+22	HOUR()
+Extracts the hour
+
+23	LAST_DAY
+Returns the last day of the month for the argument
+
+24	LOCALTIME(), LOCALTIME
+Synonym for NOW()
+
+25	LOCALTIMESTAMP, LOCALTIMESTAMP()
+Synonym for NOW()
+
+26	MAKEDATE()
+Creates a date from the year and day of year
+
+27	MAKETIME
+MAKETIME()
+
+28	MICROSECOND()
+Returns the microseconds from argument
+
+29	MINUTE()
+Returns the minute from the argument
+
+30	MONTH()
+Return the month from the date passed
+
+31	MONTHNAME()
+Returns the name of the month
+
+32	NOW()
+Returns the current date and time
+
+33	PERIOD_ADD()
+Adds a period to a year-month
+
+34	PERIOD_DIFF()
+Returns the number of months between periods
+
+35	QUARTER()
+Returns the quarter from a date argument
+
+36	SEC_TO_TIME()
+Converts seconds to 'HH:MM:SS' format
+
+37	SECOND()
+Returns the second (0-59)
+
+38	STR_TO_DATE()
+Converts a string to a date
+
+39	SUBDATE()
+When invoked with three arguments a synonym for DATE_SUB()
+
+40	SUBTIME()
+Subtracts times
+
+41	SYSDATE()
+Returns the time at which the function executes
+
+42	TIME_FORMAT()
+Formats as time
+
+43	TIME_TO_SEC()
+Returns the argument converted to seconds
+
+44	TIME()
+Extracts the time portion of the expression passed
+
+45	TIMEDIFF()
+Subtracts time
+
+46	TIMESTAMP()
+With a single argument this function returns the date or datetime expression. With two arguments, the sum of the arguments
+
+47	TIMESTAMPADD()
+Adds an interval to a datetime expression
+
+48	TIMESTAMPDIFF()
+Subtracts an interval from a datetime expression
+
+49	TO_DAYS()
+Returns the date argument converted to days
+
+50	UNIX_TIMESTAMP()
+Returns a UNIX timestamp
+
+51	UTC_DATE()
+Returns the current UTC date
+
+52	UTC_TIME()
+Returns the current UTC time
+
+53	UTC_TIMESTAMP()
+Returns the current UTC date and time
+
+54	WEEK()
+Returns the week number
+
+55	WEEKDAY()
+Returns the weekday index
+
+56	WEEKOFYEAR()
+Returns the calendar week of the date (1-53)
+
+57	YEAR()
+Returns the year
+
+58	YEARWEEK()
+Returns the year and week
+
