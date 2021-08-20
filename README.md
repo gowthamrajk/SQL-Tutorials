@@ -1059,8 +1059,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### TIME_TO_SEC() - Returns the argument converted to seconds
 
-44	TIME()
-Extracts the time portion of the expression passed
+### TIME() - Extracts the time portion of the expression passed
 
 45	TIMEDIFF()
 Subtracts time
