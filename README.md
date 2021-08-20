@@ -1027,8 +1027,7 @@ Transactions have the following four standard properties, usually referred to by
 
 ### MAKETIME - MAKETIME()
 
-28	MICROSECOND()
-Returns the microseconds from argument
+### MICROSECOND() - Returns the microseconds from argument
 
 29	MINUTE()
 Returns the minute from the argument
